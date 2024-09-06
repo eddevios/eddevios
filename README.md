@@ -12,7 +12,8 @@
 ### About 📌
 
 ### ✔  **Domain :**  📲 iOS, Android, Full-Stack Web, C# Development 💻
-### ✔  **Skills :** Swift, Objective-C, SwiftUI, CocoaPods, PSM, Kotlin, Java, PHP, C#, Mysql
+### ✔  **Skills :** Swift, Objective-C, SwiftUI, CocoaPods, Swift Package Manager, Kotlin, Java, PHP, C#, Mysql
+### ✔  **Arch :** MVC, MVVM, VIPER, MVP
 ### ✔  **Learning :** Kotlin
 ### ✔  **Hobbies :**  Games, Sports, Music, VR
 

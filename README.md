@@ -50,6 +50,14 @@
         <img alt="xCode" src="https://img.shields.io/badge/xCode-%23147EFB?logo=xcode&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a> 
       &emsp;
+      <a> 
+        <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-%23F05138?logo=swift&link=https%3A%2F%2Fwww.eddevios.com%2F&logoColor=white" height="30"/>
+      </a> 
+      &emsp;
+      <a> 
+        <img alt="Objective C" src="https://img.shields.io/badge/Objective-C-%239933CC?logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
+      </a> 
+      &emsp;
       <a>
         <img alt="Cocoa Pods" src="https://img.shields.io/badge/Cocoa%20Pods-%23EE3322?logo=cocoapods&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
@@ -61,6 +69,10 @@
       <a>
         <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-%23302E31?logo=androidstudio&link=https%3A%2F%2Fwww.eddevios.com%2F&logoColor=white" height="30"/>
       </a>
+      &emsp;
+      <a> 
+        <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4?logo=jetpackcompose&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
+      </a> 
       &emsp;
       <a> 
         <img alt="Material Design" src="https://img.shields.io/badge/Material-%23757575?logo=materialdesign&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>

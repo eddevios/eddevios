@@ -193,6 +193,10 @@
 </div>
 <br>
 
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddevios&hide_progress=true)
+</div>
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/eddevios" target="blank"><img align="center"

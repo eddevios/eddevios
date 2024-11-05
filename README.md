@@ -193,12 +193,6 @@
 </div>
 <br>
 
-<div>
-  ### 🛠️ Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddevios&layout=compact)
-
-</div>
 
 ## Connect with me:
 <p align="left">

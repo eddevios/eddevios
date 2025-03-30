@@ -42,10 +42,16 @@
 <div style="display: flex; align-items: left;">
   <div>
     <p align="left"> 
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,apple,androidstudio,swift,cs,unity,java,php,wordpress,css,html,js,mysql,sqlite,firebase,git,github,gitlab,docker,materialui,postman,vscode,bash,windows,linux,ps&perline=12" />
+      </a>
+      <div style="display: flex;">
+      </div>
+      <!--
       <a> 
         <img alt="Swift" src="https://img.shields.io/badge/Swift-%23F05138?logo=swift&link=https%3A%2F%2Fwww.eddevios.com%2F&logoColor=white" height="30"/>
       </a> 
-      &emsp;
+      &emsp;-->
       <a> 
         <img alt="xCode" src="https://img.shields.io/badge/xCode-%23147EFB?logo=xcode&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a> 
@@ -65,11 +71,11 @@
       <a> 
         <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&link=https%3A%2F%2Fwww.eddevios.com%2F&logoColor=white" height="30"/>
       </a> 
-      &emsp;
+      &emsp;<!--
       <a>
         <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-%23302E31?logo=androidstudio&link=https%3A%2F%2Fwww.eddevios.com%2F&logoColor=white" height="30"/>
       </a>
-      &emsp;
+      &emsp;-->
       <a> 
         <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4?logo=jetpackcompose&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a> 
@@ -85,8 +91,8 @@
       <a>
         <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24?logo=xampp&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
-      &emsp;
-        <a>
+      &emsp;<!--
+      <a>
         <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
       &emsp;
@@ -101,7 +107,7 @@
       <a>
         <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2300465B?link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
-      &emsp;
+      &emsp;-->
       <a>
         <img alt="Photon" src="https://img.shields.io/badge/Photon-%23004480?logo=photon&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
@@ -118,13 +124,13 @@
       <a>
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF?logo=adobephotoshop&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
-      &emsp;
+      &emsp;<!--
       <a>
         <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white" height="30"/>
       </a>
       &emsp;
       <a> 
-        <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" height="30"/>
+        <img alt="Git Hub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" height="30"/>
       </a>
       &emsp;
       <a>
@@ -134,7 +140,7 @@
       <a> 
          <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
        </a>
-      &emsp;
+      &emsp;-->
       <a> 
         <img alt="Filezilla" src="https://img.shields.io/badge/Filezilla-%23BF0000?logo=filezilla&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a> 
@@ -142,7 +148,7 @@
        <a>
         <img alt="Azure" src="https://img.shields.io/badge/Azure-%23DE00A5?link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
-      &emsp;
+      &emsp;<!--
       <a> 
          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" height="30"/>
        </a>
@@ -150,7 +156,7 @@
       <a> 
         <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-%2321759B?logo=wordpress&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a> 
-      &emsp;
+      &emsp;-->
       <a>
         <img alt="PHP MyAdmin" src="https://img.shields.io/badge/PHP%20MyAdmin-%236C78AF?logo=phpmyadmin&logoColor=white&link=https%3A%2F%2Fwww.eddevios.com%2F" height="30"/>
       </a>
